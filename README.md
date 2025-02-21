@@ -12,9 +12,6 @@ The user inputs the number of records (max 500) and the department name.
 The system queries datos.gov.co for relevant COVID-19 cases.
 The retrieved data is formatted and displayed in a structured table.
 Usage Example
-bash
-Copiar
-Editar
 python main.py
 Requirements
 Python 3.8+
